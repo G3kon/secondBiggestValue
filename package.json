@@ -1,0 +1,18 @@
+{
+  "name": "SBE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SecondBiggestElement.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "jest": {
+    "verbose": true
+  },
+  "author": "Lukasz Rausz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
