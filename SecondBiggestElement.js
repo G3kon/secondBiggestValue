@@ -2,7 +2,7 @@ const findSecondBiggestElement = (array) => {
     let biggestNumber = -2147483648;
     let secondBiggestNumber = -2147483648;
     
-    if(!(Array.isArray(array))){
+    if(!Array.isArray(array)){
         return "Given parameter is not an array"
     }
     else if(array.length === 1){
